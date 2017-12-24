@@ -5,4 +5,5 @@ iframe,html,body{
     padding:0;
     border: none;
     user-select: none;
+    overflow: hidden;
 }
